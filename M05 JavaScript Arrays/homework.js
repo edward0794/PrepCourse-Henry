@@ -3,11 +3,14 @@
 function devolverPrimerElemento(array) {
    // Retornar el primer elemento del arreglo recibido por parámetro.
    // Tu código:
+
 }
 
 function devolverUltimoElemento(array) {
    // Retornar el último elemento del arreglo recibido por parámetro.
    // Tu código:
+   array [0] = "tomates, Zanahoria";
+   return array;
 }
 
 function obtenerLargoDelArray(array) {
